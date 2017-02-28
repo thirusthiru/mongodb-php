@@ -1,0 +1,21 @@
+		body		{
+		background-image:url("http://localhost/project/abstract4.jpg") ;
+		background-size:100% 100%;
+		color: black;
+		font-family: Monotype corsiva;
+		font-size: 30px;
+
+		}
+		h2
+		{	
+				
+			font-size: 70px;
+			letter-spacing:4px;
+		}
+		 p
+		{ 
+		font-size:30px;
+		letter-spacing:4px;
+		font-weight:bold;
+
+		}
